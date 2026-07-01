@@ -1,0 +1,8 @@
+spring:
+  main:
+    web-application-type: none
+
+egovframe:
+  opendata:
+    base-url: http://localhost:18080
+    service-key: demo-key
